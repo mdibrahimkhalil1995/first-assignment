@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+.body{
+    font-family: ;
+    box-sizing: border-box;
+    overflow: hidden;
+}
+
+.container{
+
+}
+
+.container-wraper{
+    width: 1170px;
+    display: block;
+    margin: 0 auto;
+}
+.half-width{
+    width: 50%;
+}
+
+.introduction-section{
+    display: flex;
+    align-items: center;
+    margin-top: 50px;
+}
+.introduction-content{
+    padding: 15px;
+}
+
+.introduction-content h1{
+    font-size: 50px;
+    border-left: 5px solid red;
+    padding-left: 10px;
+}
+.introduction-content h1 span{
+    color: red;
+}
+.introduction-section img{
+    width: 100%;
+}
